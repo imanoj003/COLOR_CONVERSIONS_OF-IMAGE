@@ -85,7 +85,7 @@ image = cv2.resize(image, (400, 300))
 res = cv2.line(image, (0, 0), (image.shape[1], image.shape[0]), (255,0,0), 10)
 cv2.imshow('WINDOW', res)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows().
 ```
 
 ![Screenshot 2024-09-12 183001](https://github.com/user-attachments/assets/8c568849-737e-4f67-a011-8d9c4ed6f9d6)
