@@ -1,4 +1,6 @@
 # COLOR_CONVERSIONS_OF-IMAGE
+## EXP : 1
+## DATE : 12 / 08 / 24
 ## AIM
 Write a Python program using OpenCV that performs the following tasks:
 
